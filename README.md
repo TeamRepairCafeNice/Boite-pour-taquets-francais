@@ -57,6 +57,7 @@ Dans l'onglet Model, on sélection les *_tab, et on clique sur la dernière icô
 
 ![image](https://github.com/TeamRepairCafeNice/Boite-pour-taquets-francais/assets/72799037/4de3ce1b-a1ab-4aa9-929a-2e071f962350)
 
+:warning: Il ne s'agit pas du dessin du contour des panneaux, mais la trace ou le chemin de l'outil. De la même manière que pour découper un rectangle plein de AxB avec une fraise de diamètre d, le rectangle suivi par l'axe de l'outil est de A+d et B+d. Ici, le diamètre du faisceau est configuré à la suite de l'opération "Add same parts" dans les tâches du greffon **Laser Cut Interlocking**
 
 
 
